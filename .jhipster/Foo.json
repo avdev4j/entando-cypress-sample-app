@@ -1,0 +1,21 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "enCypress",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "bar",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20201224092801",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "foo",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "enCypress"
+}

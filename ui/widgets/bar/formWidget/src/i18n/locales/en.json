@@ -1,0 +1,33 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "save": "Save",
+    "dataSaved": "Bar successfully saved",
+    "dataDeleted": "Bar successfully deleted",
+    "notAuthenticated": "User is not authenticated.",
+    "selectFile": "Upload new file",
+    "selectImageFile": "Upload new image",
+    "download": "Download",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "validation": {
+    "required": "{{field}} is required"
+  },
+  "entities": {
+    "bar": {
+      "deleteDialog": {
+        "title": "Delete bar",
+        "description": "Are you sure?"
+      },
+      "notFound": "Bar not found",
+      "deleted": "Bar deleted",
+      "id": "ID",
+      "name": "entities.bar.name"
+    }
+  }
+}

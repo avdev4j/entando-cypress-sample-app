@@ -1,0 +1,16 @@
+{
+  "common": {
+    "name": "",
+    "value": "",
+    "widgetName": "",
+    "couldNotFetchData": "",
+    "notAuthenticated": "",
+    "loading": ""
+  },
+  "entities": {
+    "bar": {
+      "id": "",
+      "name": ""
+    }
+  }
+}
