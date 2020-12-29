@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://localhost:8081/services/enCypress/",
+  "baseDetailsWidgetUrl": "http://localhost:3000",
+  "testFiles": "**/*.spec.js",
+  "supportFile": "src/test/cypress/support/index.js",
+  "video": false,
+  "integrationFolder": "src/test/cypress/integration",
+  "fixturesFolder": "src/test/cypress/fixtures",
+  "pluginsFile": "src/test/cypress/plugins/index.js",
+  "screenshotsFolder": "target/cypress/screenshots",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1200,
+  "viewportHeight": 720,
+  "retries": 2
+}
